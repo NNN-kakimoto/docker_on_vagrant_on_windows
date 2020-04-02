@@ -30,6 +30,5 @@
 |:-----:|--:|
 |vim||
 |curl||
-| ~git~ ||
 |docker-ce||
 |docker-compose|1.25.4|
